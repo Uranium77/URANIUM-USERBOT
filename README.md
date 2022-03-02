@@ -1,4 +1,4 @@
-# CatUserbot
+# URANIUMU-USERBOT
 
 A simple Telegram userbot based on Telethon .
 [![catuserbot logo](https://telegra.ph/file/fa5c3e2419b3939b8c729.jpg)](https://t.me/URANIUM_FIGHTERS) 
