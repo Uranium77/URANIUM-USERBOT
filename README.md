@@ -55,8 +55,8 @@ A simple Telegram userbot based on Telethon .
 
 ## Contact & Support
 
-- [uranium-serbot Channel](https://t.me/URANIUM_UPDATES)
-- [uranium-erbot Support Group](https://t.me/URANIUM_FIGHTERS)
+- [uranium-userbot Channel](https://t.me/URANIUM_UPDATES)
+- [uranium-uerbot Support Group](https://t.me/URANIUM_FIGHTERS)
 
 ## License
 
