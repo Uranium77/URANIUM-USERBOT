@@ -1,7 +1,7 @@
 {
-  "name": "Catuserbot",
+  "name": "uranium-userbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://telegra.ph/file/fa5c3e2419b3939b8c729.jpg",
   "keywords": [
     "plugin",
     "modular",
