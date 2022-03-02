@@ -1,7 +1,7 @@
 # CatUserbot
 
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/e1bcc91dda7a3de052592.jpg)](https://t.me/catuserbot_support) 
+[![catuserbot logo](https://telegra.ph/file/fa5c3e2419b3939b8c729.jpg)](https://t.me/URANIUM_FIGHTERS) 
 
 ## Deployment
 > Click on buttons to expands! 
@@ -55,8 +55,8 @@ A simple Telegram userbot based on Telethon .
 
 ## Contact & Support
 
-- [Catuserbot Channel](https://t.me/catuserbot17)
-- [Catuserbot Support Group](https://t.me/catuserbot_support)
+- [Catuserbot Channel](https://t.me/URANIUM_UPDATES)
+- [Catuserbot Support Group](https://t.me/URANIUM_FIGHTERS)
 
 ## License
 
